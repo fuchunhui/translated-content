@@ -19,7 +19,7 @@ const contentMap = {
   "## Examples": "## 示例",
   "## Example": "## 示例",
   "#### Result": "#### 结果",
-  "### Results": "#### 结果",
+  "### Results": "### 结果",
   "## Specifications": "## 规范",
   "## Browser compatibility": "## 浏览器兼容性",
   "## See also": "## 参见",
